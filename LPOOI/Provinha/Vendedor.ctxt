@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Vendedor
+comment1.params=
+comment1.target=void\ lerDadosVendedor()
+comment2.params=
+comment2.target=void\ mostrarDados()
+comment3.params=
+comment3.target=void\ fazerAniversario()
+comment4.params=cli
+comment4.target=void\ setCliente(Cliente)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

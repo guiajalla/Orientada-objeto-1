@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Conta
+comment0.text=\r\n\ @guiajalla\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=titular
+comment1.target=void\ getTitular(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ setTitular()
+comment3.params=numero
+comment3.target=void\ getNumero(int)
+comment4.params=
+comment4.target=int\ setNumero()
+comment5.params=digito
+comment5.target=void\ getDigito(int)
+comment6.params=
+comment6.target=int\ setDigito()
+comment7.params=digito
+comment7.target=void\ getSaldo(float)
+comment8.params=
+comment8.target=float\ setSaldo()
+numComments=9

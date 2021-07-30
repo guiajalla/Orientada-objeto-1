@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Pedido
+comment1.params=
+comment1.target=Pedido()
+comment2.params=nomeProd
+comment2.target=void\ setnomeProd(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getnomeProd()
+numComments=4

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Mamifero
+comment1.params=alimento
+comment1.target=void\ setAlimento(java.lang.String)
+comment2.params=aMamifero
+comment2.target=void\ setAnimal(Animal)
+comment3.params=
+comment3.target=java.lang.String\ getAlimento()
+comment4.params=
+comment4.target=void\ dadosMamifero()
+numComments=5

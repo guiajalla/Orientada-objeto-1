@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Peixe
+comment1.params=carac
+comment1.target=void\ setCarac(java.lang.String)
+comment2.params=aPeixe
+comment2.target=void\ setAnimal(Animal)
+comment3.params=
+comment3.target=java.lang.String\ getCarac()
+comment4.params=
+comment4.target=void\ dadosPeixe()
+numComments=5

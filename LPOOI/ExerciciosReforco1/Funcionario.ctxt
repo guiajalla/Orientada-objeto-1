@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Funcionario
+comment1.params=
+comment1.target=void\ getFuncionario()
+comment2.params=
+comment2.target=void\ mostra()
+comment3.params=
+comment3.target=void\ bonifica()
+comment4.params=
+comment4.target=void\ demite()
+comment5.params=f1\ f2
+comment5.target=boolean\ funcIguais(Funcionario,\ Funcionario)
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Publicacao
+comment1.params=
+comment1.target=void\ abrir()
+comment2.params=
+comment2.target=void\ fechar()
+comment3.params=p
+comment3.target=void\ folhear(int)
+comment4.params=
+comment4.target=void\ avancarPag()
+comment5.params=
+comment5.target=void\ voltarPag()
+numComments=6
